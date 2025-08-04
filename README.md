@@ -3,14 +3,14 @@ This project focuses on cleaning and analyzing Netflix data  using Python and Pa
 
 ## Contents
 
-netflix_titles.xlsx :contain raw data 
+Raw netflix data.xlsx :contain raw data 
 Code.ipynb : Jupyter notebooks/scripts used for data cleaning and exploration
 netflix_cleaned.xlsx : contains the cleaned data
 
 ## Tasks Completed
 
  1.**Data Loading & Setup**
- Loaded raw dataset (netflix_titles.xlsx)
+ Loaded raw dataset (Raw netflix data.xlsx)
  Displayed data overview using .head(), .info(), .shape(), .describe()
 
 2. **Data Cleaning**
